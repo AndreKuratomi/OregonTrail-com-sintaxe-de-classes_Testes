@@ -41,23 +41,19 @@ class Wagon {
     }
 
     shouldQuarantine() {
-        let sickPassenger = Traveler.bind(this.isHealthy);
-        if (this.passengers.includes(sickPassenger)) {
-            return false;
+        let sickPassenger = Traveler.bind(this.isHealthy = false);
+        console.log(sickPassenger)
+
+        for (let count = 0; count < this.passengers.length; count++) {
+            if (this.passengers.includes(sickPassenger)) {
+                return true;
+            }
         }
-        return true;
-        // for (let count = 0; count < this.passengers.length; count++) {
-            
-
-
-        //     if (this.passengers[count]) {
-
-        //     }
-        // }
+        return false;
     }
 
     totalFood() {
-        return this.passengers.length + 1;
+        return this.passengers.length + 1; //considerei o cocheiro
     }
 };
 
@@ -87,9 +83,3 @@ juan.eat(); // juan agora está com fome (doente)
 
 console.log(`${wagon.shouldQuarantine()} should be true since juan is sick`);
 console.log(`${wagon.totalFood()} should be 3`);
-
-
-
-// CHECAGEM ANTES DE ENVIAR
-
-// Os testes continuam passando e reportando os mesmos valores de antes
