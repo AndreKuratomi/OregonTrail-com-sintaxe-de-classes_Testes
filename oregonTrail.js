@@ -41,11 +41,8 @@ class Wagon {
     }
 
     shouldQuarantine() {
-        let sickPassenger = Traveler.bind(this.isHealthy = false);
-        console.log(sickPassenger)
-
         for (let count = 0; count < this.passengers.length; count++) {
-            if (this.passengers.includes(sickPassenger)) {
+            if (this.passengers[count].isHealthy === false) {
                 return true;
             }
         }
@@ -53,7 +50,11 @@ class Wagon {
     }
 
     totalFood() {
-        return this.passengers.length + 1; //considerei o cocheiro
+        let amountOfFood = 0;
+        for (let count = 0; count < this.passengers.length; count++) {
+            amountOfFood += this.passengers[count].food;
+        }
+        return amountOfFood;
     }
 };
 
