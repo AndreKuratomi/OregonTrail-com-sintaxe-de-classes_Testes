@@ -1,4 +1,4 @@
-# OregonTrail-com-sintaxe-de-classes_Testes-TDD-POO
+# OregonTrail-com-sintaxe-de-classes_Testes_POO
 
 - [Descrição](#descrição)
 - [Instalação](#instalação)
@@ -9,7 +9,7 @@
 
 # Descrição
 
-<p><strong>CoinObject</strong> é um jogo simples de 'cara ou coroa' aplicado a 20 modeas. Esta aplicação utiliza HTML5, CSS3 e a linguagem Javascript com DOM e Programação Orientada a Objetos.</p>
+<p><strong>OregonTrail com sintaxe de classes</strong> é um jogo simples de 'cara ou coroa' aplicado a 20 modeas. Esta aplicação utiliza HTML5, CSS3 e a linguagem Javascript com DOM e Programação Orientada a Objetos.</p>
 <br>
 
 # Instalação
@@ -25,7 +25,7 @@ git init
 ```
 
 <br>
-<h5>1. Fazer o clone do reposítório <strong>CoinObject</strong> na sua máquina pelo terminal do computador ou pelo do IDE:</h5>
+<h5>1. Fazer o clone do reposítório <strong>OregonTrail com sintaxe de classes</strong> na sua máquina pelo terminal do computador ou pelo do IDE:</h5>
 
 ```
 git clone https://github.com/AndreKuratomi/OregonTrail-com-sintaxe-de-classes_Testes-TDD-POO.git
