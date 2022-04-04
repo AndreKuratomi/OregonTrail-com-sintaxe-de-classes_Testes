@@ -1,4 +1,4 @@
-# OregonTrail-com-sintaxe-de-classes_Testes-TDD
+# OregonTrail-com-sintaxe-de-classes_Testes
 
 - [Descrição](#descrição)
 - [Instalação](#instalação)
