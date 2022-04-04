@@ -1,5 +1,4 @@
 # OregonTrail-com-sintaxe-de-classes_Testes-TDD-POO
-## CoinObject
 
 - [Descrição](#descrição)
 - [Instalação](#instalação)
@@ -12,9 +11,6 @@
 
 <p><strong>CoinObject</strong> é um jogo simples de 'cara ou coroa' aplicado a 20 modeas. Esta aplicação utiliza HTML5, CSS3 e a linguagem Javascript com DOM e Programação Orientada a Objetos.</p>
 <br>
-
-<p>Link vercel:</p>
-https://abkura.gitlab.io/coinobject/
 
 # Instalação
 
@@ -32,13 +28,13 @@ git init
 <h5>1. Fazer o clone do reposítório <strong>CoinObject</strong> na sua máquina pelo terminal do computador ou pelo do IDE:</h5>
 
 ```
-git clone git@gitlab.com:ABKURA/coinobject.git
+git clone https://github.com/AndreKuratomi/OregonTrail-com-sintaxe-de-classes_Testes-TDD-POO.git
 ```
 
 <p>Entrar na pasta criada:</p>
 
 ```
-cd coinobject
+cd oregontrail-com-sintaxe-de-classes_testes-tdd_poo
 ```
 
 <p>E rodar a aplicação:</p>
@@ -58,15 +54,6 @@ code .
 <p>Precisamos rodar a extensão do VSCode <b>Go live</b></p>
 
 <p>A aplicação rodará no navegador automaticamente.</p>
-
-
-<h3>Via Deploy Vercel:</h3>
-
-<p>Basta clicar no link abaixo:</p>
-
-https://abkura.gitlab.io/coinobject/
-
-
 
 
 # Termos de uso
