@@ -28,13 +28,13 @@ git init
 <h5>1. Fazer o clone do reposítório <strong>OregonTrail com sintaxe de classes</strong> na sua máquina pelo terminal do computador ou pelo do IDE:</h5>
 
 ```
-git clone https://github.com/AndreKuratomi/OregonTrail-com-sintaxe-de-classes_Testes-TDD.git
+git clone https://github.com/AndreKuratomi/OregonTrail-com-sintaxe-de-classes_Testes.git
 ```
 
 <p>Entrar na pasta criada:</p>
 
 ```
-cd oregontrail-com-sintaxe-de-classes_testes-tdd
+cd oregontrail-com-sintaxe-de-classes_testes
 ```
 
 <p>E rodar a aplicação:</p>
