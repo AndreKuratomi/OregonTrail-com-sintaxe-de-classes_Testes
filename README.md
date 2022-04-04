@@ -9,7 +9,7 @@
 
 # Descrição
 
-<p><strong>OregonTrail com sintaxe de classes</strong> é uma aplicação que cria personagens Traveler e Wagon com sintaxe de classes. Esta aplicação utiliza HTML5, CSS3 e a linguagem Javascript com e Programação Orientada a Objetos e Testes TDD.</p>
+<p><strong>OregonTrail com sintaxe de classes</strong> é uma aplicação que cria personagens Traveler e Wagon com sintaxe de classes. Esta aplicação utiliza HTML5, CSS3 e a linguagem Javascript com e Programação Orientada a Objetos e testes simples.</p>
 <br>
 
 # Instalação
