@@ -51,10 +51,13 @@ code .
 
 <h3>Via VSCode:</h3>
 
-<p>Precisamos rodar a extensão do VSCode <b>Go live</b></p>
+<p>Para rodar os testes precisamos rodar o seguinte comando:</p>
 
-<p>A aplicação rodará no navegador automaticamente.</p>
+```
+node oregonTrail.js
+```
 
+<p>Ou rodamos a extensão do VSCode <b>Go live</b> e checar pelo console do DevTools.</p>
 
 # Termos de uso
 
